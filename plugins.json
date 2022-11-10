@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "projectUrl": "",
+    "provider": "RyanMarshCodes",
+    "name": "WAE Motherlode",
+    "description": "Does motherlode",
+    "id": "waemotherlode-plugin",
+    "releases": [
+      {
+        "date": "2022-11-10",
+        "sha512sum": "351191684B7C4E059705B655F2F13B4FEF1C29AF89AA4AF9317D9CE03CEA0D6AEE30AF59C62F5663F9D72F4D1AE44CF6AE5214CCB03A4DBE84141CDBA3579E40",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.1.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
