@@ -7,10 +7,26 @@
     "id": "waemotherlode-plugin",
     "releases": [
       {
-        "date": "2022-11-10",
+        "date": "2022-11-11",
         "sha512sum": "1E92686C7AD0CE7DC79FAC34EBDD3E0DBDD65C4C964797B61A59699FD48D839F99B9F95A02BC90FBECCE8DF41F2B380CFB15DB322D06EF7FF0E8F159272E29F8",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.1.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "RyanMarshCodes",
+    "name": "WAE Hoster",
+    "description": "Hosts POH and keeps burners lit",
+    "id": "waehoster-plugin",
+    "releases": [
+      {
+        "date": "2022-11-11",
+        "sha512sum": "B77A2BBEFED8943FC8C0DA941AEA54DB13528D6ABAD4C7A1DAFC061E7EBAA25B5C1036C56EE4EF41196BEF4BA0BAEF576222FC7283A96294829DF76384914F89",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.1.jar",
         "requires": "^1.0.0"
       }
     ]
