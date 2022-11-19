@@ -7,8 +7,8 @@
     "id": "waemotherlode-plugin",
     "releases": [
       {
-        "date": "2022-11-11",
-        "sha512sum": "1E92686C7AD0CE7DC79FAC34EBDD3E0DBDD65C4C964797B61A59699FD48D839F99B9F95A02BC90FBECCE8DF41F2B380CFB15DB322D06EF7FF0E8F159272E29F8",
+        "date": "2022-11-19",
+        "sha512sum": "1C3B6C7B79BFA811C98AC25914397B85E9C4B01488B14303F7B6FF64F28931C2E0CFD38EF966D13F8A60B11CE07C90841640F21E8DEFA64F379681667627EFE7",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.1.jar",
         "requires": "^1.0.0"
@@ -23,10 +23,26 @@
     "id": "waehoster-plugin",
     "releases": [
       {
-        "date": "2022-11-11",
-        "sha512sum": "B77A2BBEFED8943FC8C0DA941AEA54DB13528D6ABAD4C7A1DAFC061E7EBAA25B5C1036C56EE4EF41196BEF4BA0BAEF576222FC7283A96294829DF76384914F89",
+        "date": "2022-11-19",
+        "sha512sum": "38477821686F1EFC4F73326282879DD427C7A0447FE0CC1EE95A9802C462B53DA835C8913F457D1B491551AE8D332F6831EF03DD85DBABA264F5D383D1613CFC",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.1.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "RyanMarshCodes",
+    "name": "Wae Multibox",
+    "description": "Plugin to broadcast input to multiple clients",
+    "id": "waemultibox-plugin",
+    "releases": [
+      {
+        "date": "2022-11-19",
+        "sha512sum": "4C22E9AEAE420A7818093AE9936E5C11E29F2199A20346477570B2CCC651822498E57AB461F864C14B5F7A3E1EB4A6E9FF13C1D704101869CC1698A670D65EC4",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-multibox-0.0.1.jar",
         "requires": "^1.0.0"
       }
     ]
