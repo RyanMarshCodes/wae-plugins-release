@@ -81,6 +81,13 @@
         "version": "0.0.3",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.3.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-11-27",
+        "sha512sum": "632E05FA821EA488F99A5ED5ADA12CF98E42F9ABF7797C8FB5EF47E3E91341E518B94F3CB62246CED5EA79E76D4623436794B57A7307DEB05BD5CC6D676E0370",
+        "version": "0.0.4",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.4.jar",
+        "requires": "^1.0.0"
       }
     ]
   }
