@@ -46,5 +46,21 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/xXD4GBsB",
+    "provider": "RyanMarshCodes",
+    "name": "Wae Blast Furnace",
+    "description": "Hopefully does blast furnace",
+    "id": "waeblastfurnace-plugin",
+    "releases": [
+      {
+        "date": "2022-11-27",
+        "sha512sum": "EE8EA5510E783AF1A651103A6BF353B5D8ADFE17EF291944BD2CA3A5E12EEA9B13486A2A8CE2E3B93B156AC8CD2E582F033B9C81DF419566F065F29537815C92",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.1.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
