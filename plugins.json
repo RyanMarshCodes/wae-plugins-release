@@ -12,6 +12,13 @@
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.1.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-11-27",
+        "sha512sum": "6095BB233E8B67D99960D7BEDCF7B412BFFCBD26FFD88FAE276612A2E39B6937A489DC720E695E8E45BBB9427C962B897B147AC89C2B19C4A0200D2323BC3B61",
+        "version": "0.0.4",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.4.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -27,6 +34,13 @@
         "sha512sum": "38477821686F1EFC4F73326282879DD427C7A0447FE0CC1EE95A9802C462B53DA835C8913F457D1B491551AE8D332F6831EF03DD85DBABA264F5D383D1613CFC",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.1.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-11-27",
+        "sha512sum": "F869AF36B01F019620C68AE44A875588B633F824A4AB583B69CAFE0B92C1AF65091A63835CCBCA3562DC11AD7253EE3B13B84E9F4BBB032DB2313B0FD2464928",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.2.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -59,6 +73,13 @@
         "sha512sum": "EE8EA5510E783AF1A651103A6BF353B5D8ADFE17EF291944BD2CA3A5E12EEA9B13486A2A8CE2E3B93B156AC8CD2E582F033B9C81DF419566F065F29537815C92",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.1.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-11-27",
+        "sha512sum": "72247EAEFA5F7526E36202B9FDE9FC66AE6D09C52A94529C044AAB60A4E7B8FB73F3C74D19A1D3C78948D00B4FD4A942BDD843BD4E026391A171E24EEC3DF9E2",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.3.jar",
         "requires": "^1.0.0"
       }
     ]
