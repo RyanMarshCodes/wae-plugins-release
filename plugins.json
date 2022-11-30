@@ -21,7 +21,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-11-29",
+        "date": "2022-11-30",
         "sha512sum": "203F5F280E2B512ACCE570339B221BFDC55C4C3E2F75A07761321523FD16278D68391BE592F2523073E3A4D2BAF0047E7CC5DCB439EA9B43C665E33A0C5B0D7A",
         "version": "0.0.5",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.5.jar",
@@ -48,6 +48,13 @@
         "sha512sum": "F869AF36B01F019620C68AE44A875588B633F824A4AB583B69CAFE0B92C1AF65091A63835CCBCA3562DC11AD7253EE3B13B84E9F4BBB032DB2313B0FD2464928",
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.2.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-11-30",
+        "sha512sum": "1E04649A150350E159529D6C9105553A3B617E74565722F1F55FCB7DB9702BCEE4065081B54EC0CE50CEB0D7D5E1D74B4E0A3109769B2E0C9F137CFB25DB3C22",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.3.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -104,7 +111,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-11-29",
+        "date": "2022-11-30",
         "sha512sum": "1B474F3D80EF9BE790A6E6903A973CBD4060BE5A5E65C293A96716F64D93DC0CFC3949F1D06338FD7B9384B4293D9932A9B8F8F44A20622D2E27F2841671C973",
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.6.jar",
