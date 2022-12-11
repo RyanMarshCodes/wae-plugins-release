@@ -118,5 +118,21 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "RyanMarshCodes",
+    "name": "Wae Pest Control",
+    "description": "Hopefully does pest control",
+    "id": "waepestcontrol-plugin",
+    "releases": [
+      {
+        "date": "2022-12-11",
+        "sha512sum": "5EC35637D2773D36F0FDBA8AAF5C7C9C4D15DDE009F0651B6290A9D75DCB65738274FC04BCBDCBCA99EF16D5DCFF3A7F5CB703DD090F1E8EB74A3898D10ED543",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-pestcontrol-0.0.2.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
