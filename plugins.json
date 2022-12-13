@@ -139,6 +139,13 @@
         "version": "0.0.3",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-pestcontrol-0.0.3.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-13",
+        "sha512sum": "6A20104F161FCB187E514BC5E8087D0FCEA9EADC9B885D05C85B783B0E8D4B15202070835ACD0AC95075295C7A1578DEE2DC55E609C363675DB2E8DA8B8F0553",
+        "version": "0.0.4",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-pestcontrol-0.0.4.jar",
+        "requires": "^1.0.0"
       }
     ]
   }
