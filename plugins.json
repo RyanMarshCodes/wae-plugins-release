@@ -26,6 +26,13 @@
         "version": "0.0.5",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.5.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-23",
+        "sha512sum": "3982999A3D53BEBB155DD3E039098577857CDF3168605E5B4329E65C7D20C4037C9D44ABA274CB0BFAB8567CACD9D694C8E30FB2BE441DC511262D30F0B92F66",
+        "version": "0.0.6",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.6.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
