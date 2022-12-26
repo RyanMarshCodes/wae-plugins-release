@@ -33,6 +33,13 @@
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.6.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-26",
+        "sha512sum": "F0703211C95637132A6FC58E677D640EC95ACBA778568AD714CA19AB85FCDF397EF2A72489E056B67CA2A5C6677A86F5EB76C6E79BE1E230E6AD5A55BCCDF2CE",
+        "version": "0.0.7",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.7.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -166,6 +173,22 @@
         "sha512sum": "9816EABCB62680516149C572156271BCBFE51988226E38143801EC293601D073CF23E723C963EA72A7F5A6E17EC8FDAB52DE0A5F1148AE6D3F09B5B92F0775B2",
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-pestcontrol-0.0.6.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "RyanMarshCodes",
+    "name": "Wae Vorkath",
+    "description": "Hopefully does Vorkath",
+    "id": "waevorkath-plugin",
+    "releases": [
+      {
+        "date": "2022-12-26",
+        "sha512sum": "8426E4191BA83BBC417AA950D2057689487A4C761E625BAE71A439E3F740710899AB38426BFF11148E8B1CF945806752DBE14DFCC9937FCCB202B96B45440F58",
+        "version": "0.0.1",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-vorkath-0.0.1.jar",
         "requires": "^1.0.0"
       }
     ]
