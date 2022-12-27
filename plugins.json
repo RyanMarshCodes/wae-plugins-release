@@ -40,6 +40,13 @@
         "version": "0.0.7",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.7.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-27",
+        "sha512sum": "CDE1105CC27BFD0F7B518FAAF66370A80537BFBC45D201C2D1484731D4FAB21266B5C32BC99A552D591FB2B82094DC1A0B7D5422CC908B6FBBCEB831D44DFFCE",
+        "version": "0.0.8",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-motherlode-0.0.8.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -69,6 +76,13 @@
         "sha512sum": "1E04649A150350E159529D6C9105553A3B617E74565722F1F55FCB7DB9702BCEE4065081B54EC0CE50CEB0D7D5E1D74B4E0A3109769B2E0C9F137CFB25DB3C22",
         "version": "0.0.3",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.3.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-27",
+        "sha512sum": "7F3DE3095D54ABAAA2AEE8FA96CB062BC12353428289F5C1CB73D4C5BEB20795101AE7930BC559629CD56AB6CC7D1976FFD4AAC767501EDDFBD82ED4603120C9",
+        "version": "0.0.4",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-hoster-0.0.4.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -130,6 +144,13 @@
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.6.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-27",
+        "sha512sum": "AB8D2E71E56F51199818B72563B0DC503013AC60594D6486C2D3783A6E289AC6608F18ACA1128E89DD4105F0F144A4D1395FC0A78EA89228898C893DA3FC903C",
+        "version": "0.0.7",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-blastfurnace-0.0.7.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -174,6 +195,13 @@
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-pestcontrol-0.0.6.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-27",
+        "sha512sum": "1060E7CAC5A445A57E195587B0CED6270B65F6214E04788BA905D829E7F0043BF374EC1C5024720638266B4A41353C81E6BC770764DB65398F3BD55F0FF37EB8",
+        "version": "0.0.7",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-pestcontrol-0.0.7.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -189,6 +217,13 @@
         "sha512sum": "8426E4191BA83BBC417AA950D2057689487A4C761E625BAE71A439E3F740710899AB38426BFF11148E8B1CF945806752DBE14DFCC9937FCCB202B96B45440F58",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-vorkath-0.0.1.jar",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-12-27",
+        "sha512sum": "C8E391175DD6679F366570E0ADF73CD9D08B59C41DD495E68B7A6DC8AC91E24A2B14C4330B0FCC5E297DD4E5DC6793C235C7C3A5888BE6F113D484C10470F294",
+        "version": "0.0.2",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-vorkath-0.0.2.jar",
         "requires": "^1.0.0"
       }
     ]
