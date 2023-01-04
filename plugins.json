@@ -225,6 +225,13 @@
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-vorkath-0.0.2.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2023-01-04",
+        "sha512sum": "BEE1AB00BF4ED4BAB8E5CEFD797AD394AB80D6989D96C57973C023152AC34FEF0BC89FDF017B83EF833C24E2620425B2E3203BE1B3D5763B046ACB3FB4F5E80C",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/RyanMarshCodes/wae-plugins-release/master/wae-vorkath-0.0.3.jar",
+        "requires": "^1.0.0"
       }
     ]
   }
